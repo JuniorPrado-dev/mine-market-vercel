@@ -1,1 +1,1 @@
-export const BASEURL="https://mine-market-vercel-back.vercel.app/"
+export const BASEURL="https://mine-market-vercel-back.vercel.app"
